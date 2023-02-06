@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "56207343490",
+    "project_id": "notetakingapp-e3450",
+    "storage_bucket": "notetakingapp-e3450.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56207343490:android:b85cb02fd52403ddf1199b",
+        "android_client_info": {
+          "package_name": "com.example.noteit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56207343490-1k4fmqfjlsst1omm53j11sn25v6gf3ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcV5iMdiiFzTU5kX4Z_tSJSYC9p5dzM2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56207343490-1k4fmqfjlsst1omm53j11sn25v6gf3ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
